@@ -18,4 +18,10 @@
 
 2. Detailed Workshop: https://github.com/tbecks/DataWorkshop/blob/master/Workshop.zip
 
+3. Immersion Database: 
+* Server name: immersiondb.database.windows.net
+* Database: AdventureWorksDW2014
+* Username: ImmersionUser
+* Password: Pass@word1
+
 
