@@ -27,10 +27,10 @@
 * Table: dbo.DimCustomer
 
 4. ADF - KittiRoad Data Web Files (HTTP Linked Service):
-* Base URL: https://s3-us-west-1.amazon.com
+* Base URL: https://s3.eu-central-1.amazonaws.com
 * Server Certificate Validation: Enable
 * Authentication Type: Anonymous
-* Relative URL: /udacity-selfdrivingcar/advanced_deep_learning/data_road.zip
+* Relative URL: /avg-kitti/raw_data/2011_09_26_drive_0028/2011_09_26_drive_0028_extract.zip
 * Binary Copy: Checked
 * Destination File Path: adf / data_road.zip
 
