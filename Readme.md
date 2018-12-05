@@ -1,6 +1,6 @@
 # DataWorkshop #
 
-###Inital Setup###
+### Inital Setup ###
 
 * Create a Storage Account in Azure
 * Open Azure Storage Explorer and connect to the new Storage Account
