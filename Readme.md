@@ -13,7 +13,7 @@
   * nycbike-parquet
   * adf
 
-### Getting Started ###
+### Lab Information ###
 
 1. Hands on with Databricks using NYC CitiBike Data: https://github.com/tbecks/DataWorkshop/blob/master/citibike_nyc_analysis.html
 
@@ -34,4 +34,4 @@
 * Binary Copy: Checked
 * Destination File Path: adf / data_road.zip
 
-
+5. Citibike Parquet Conversion Notebook: xxxxxx
