@@ -11,6 +11,7 @@
   * nycbike
 * In your storage account create the following blank container:
   * nycbike-parquet
+  * adf
 
 ### Getting Started ###
 
@@ -18,10 +19,19 @@
 
 2. Detailed Workshop: https://github.com/tbecks/DataWorkshop/blob/master/Workshop.zip
 
-3. Immersion Database: 
+3. ADF - Immersion Database: 
 * Server name: immersiondb.database.windows.net
 * Database: AdventureWorksDW2014
-* Username: ImmersionUser
-* Password: Pass@word1
+* Username: immersionuser
+* Password: pass@word1
+* Table: dbo.DimCustomer
+
+4. ADF - KittiRoad Data Web Files (HTTP Linked Service):
+* Base URL: https://s3-us-west-1.amazon.com
+* Server Certificate Validation: Enable
+* Authentication Type: Anonymous
+* Relative URL: /udacity-selfdrivingcar/advanced_deep_learning/data_road.zip
+* Binary Copy: Checked
+* Destination File Path: adf / data_road.zip
 
 
