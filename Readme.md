@@ -1,6 +1,6 @@
-## DataWorkshop
+# DataWorkshop #
 
-Inital Setup:
+###Inital Setup###
 
 * Create a Storage Account in Azure
 * Open Azure Storage Explorer and connect to the new Storage Account
@@ -12,6 +12,7 @@ Inital Setup:
 * In your storage account create the following blank container:
   * nycbike-parquet
 
+### Getting Started ###
 
 1. Hands on with Databricks using NYC CitiBike Data: https://github.com/tbecks/DataWorkshop/blob/master/citibike_nyc_analysis.html
 
