@@ -34,4 +34,4 @@
 * Binary Copy: Checked
 * Destination File Path: adf / data_road.zip
 
-5. Citibike Parquet Conversion Notebook: xxxxxx
+5. Customer Parquet Conversion Notebook (for Azure Data Factory): 
