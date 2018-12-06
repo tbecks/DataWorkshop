@@ -34,4 +34,4 @@
 * Binary Copy: Checked
 * Destination File Path: adf / data_road.zip
 
-5. Customer Parquet Conversion Notebook (for Azure Data Factory): 
+5. Customer Parquet Conversion Notebook (for Azure Data Factory): https://github.com/tbecks/DataWorkshop/blob/master/customers_convert_to_parquet.html
