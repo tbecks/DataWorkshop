@@ -26,7 +26,7 @@
 * Password: pass@word1
 * Table: dbo.DimCustomer
 
-4. ADF - KittiRoad Data Web Files (HTTP Linked Service):
+4. ADF - KittiRoad Data Web Files (HTTP Linked Service): https://s3.eu-central-1.amazonaws.com/avg-kitti/raw_data/2011_09_26_drive_0028/
 * Base URL: https://s3.eu-central-1.amazonaws.com
 * Server Certificate Validation: Enable
 * Authentication Type: Anonymous
